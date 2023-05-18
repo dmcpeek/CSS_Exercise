@@ -1,0 +1,50 @@
+.nav-link {
+    color:orange;
+    text-decoration: none;
+}
+
+main {
+    max-width: 600px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    justify-content: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+#title {
+    font-size: 40px;
+    font-weight: 800px;
+}
+
+.d-inline{
+    display: inline;
+    padding: 3px; /* I didn't like the spacing so I added a little padding */
+}
+
+nav > ul {
+    list-style: none;
+}
+
+body {
+    background: #222222;
+    color: #EEEEEE;
+}
+
+#avatar {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
